@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../data_drive/glint_data/summary_data_csv"
+		},
+		{
+			"path": "../../glint_modeling/results_familiar"
+		},
+		{
+			"path": "../../glint_modeling/results_novel"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"njpwerner.autodocstring"
+		]
+	}
+}
