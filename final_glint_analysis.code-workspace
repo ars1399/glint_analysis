@@ -7,13 +7,10 @@
 			"path": ".."
 		},
 		{
-			"path": "../../../../../data_drive/glint_data/summary_data_csv"
+			"path": "../../../../../data_drive/glint_master/data/model_data"
 		},
 		{
-			"path": "../../glint_modeling/results_familiar"
-		},
-		{
-			"path": "../../glint_modeling/results_novel"
+			"path": "../../../../../data_drive/glint_master/data/adult_data"
 		}
 	],
 	"extensions": {
