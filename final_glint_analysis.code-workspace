@@ -7,10 +7,7 @@
 			"path": ".."
 		},
 		{
-			"path": "../../../../../data_drive/glint_master/data/model_data"
-		},
-		{
-			"path": "../../../../../data_drive/glint_master/data/adult_data"
+			"path": "../../../../../data_drive/glint_master/data"
 		}
 	],
 	"extensions": {
